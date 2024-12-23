@@ -1,6 +1,6 @@
 -   We’ve mixed XML and annotation-based configurations to broaden your understanding of Servlet API, and for illustration purposes, not a preference for XML, modern practices favor annotations.
 
--   This article is accompanied by source code on [GitHub](https://github.com/ahmedjaad/servlet-basics). Following along with the code, while reading will help you better understand the concepts discussed.  
+-   This article is accompanied by source code on [GitHub](https://github.com/ahmedjaadi/servlet-basics). Following along with the code, while reading will help you better understand the concepts discussed.  
  
 <br>
 

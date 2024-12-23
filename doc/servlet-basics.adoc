@@ -3,7 +3,7 @@ Ahmed Ali Rashid <https://github.com/ahmedjaad>
 1.0, Oct 27, 2024: Detailing Servlet Tachnology
 :toc: preamble
 :icons: font
-:git-repo-url: https://github.com/ahmedjaad/servlet-basics
+:git-repo-url: https://github.com/ahmedjaadi/servlet-basics
 
 * We’ve mixed XML and annotation-based configurations to broaden your understanding of
 Servlet API, and for illustration purposes, not a preference for XML, modern practices
