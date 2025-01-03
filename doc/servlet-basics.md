@@ -272,8 +272,9 @@ Going back to our banking system, say we want to improve the experience of custo
         @Override
         public void sessionCreated(HttpSessionEvent se) {
             HttpSession session = se.getSession();
+            // Retrieve user data from a database or service 
             UserData userData = getUserData();
-            session.setAttribute("userData", userData); // Retrieve user data from a database or service
+            session.setAttribute("userData", userData);
         }
 ```
 

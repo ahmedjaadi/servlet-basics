@@ -332,8 +332,9 @@ below code gives us the idea how we would approach this
     @Override
     public void sessionCreated(HttpSessionEvent se) {
         HttpSession session = se.getSession();
+       // Retrieve user data from a database or service
         UserData userData = getUserData();
-        session.setAttribute("userData", userData); // Retrieve user data from a database or service
+        session.setAttribute("userData", userData);
     }
 
 ----
